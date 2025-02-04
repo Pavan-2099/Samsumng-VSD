@@ -22,13 +22,17 @@
 <details>
   <br>
   
-![ Screenshot 1](https://github.com/rvijay333/RISC-V-Talent-Development-Program/blob/main/VirtualBox_vsdworkshop_code_sumoneton.png)
+![ Screenshot 1](https://github.com/Pavan-2099/Samsumng-VSD/blob/main/screenshots/image_1.png)
   
-![ Screenshot 2](https://github.com/rvijay333/RISC-V-Talent-Development-Program/blob/main/VirtualBox_vsdworkshop_codeofast.png)
+![ Screenshot 2](https://github.com/Pavan-2099/Samsumng-VSD/blob/main/screenshots/image_2.png)
 
-![ Screenshot 3](https://github.com/rvijay333/RISC-V-Talent-Development-Program/blob/main/VirtualBox_vsdworkshop_main_ofast.png)
+![ Screenshot 3](https://github.com/Pavan-2099/Samsumng-VSD/blob/main/screenshots/image_3.png)
 
-![ Screenshot 4](https://github.com/rvijay333/RISC-V-Talent-Development-Program/blob/main/VirtualBox_vsdworkshop_main_sumoneton.png)
+![ Screenshot 4](https://github.com/Pavan-2099/Samsumng-VSD/blob/main/screenshots/image_4.png)
+
+![ Screenshot 5](https://github.com/Pavan-2099/Samsumng-VSD/blob/main/screenshots/imge_5.png)
+
+![ Screenshot 6](https://github.com/Pavan-2099/Samsumng-VSD/blob/main/screenshots/image_6.png)
 
 </details>
 ---
