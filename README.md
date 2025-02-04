@@ -63,6 +63,20 @@ which is likely responsible for cleaning up resources before program termination
 one can gain an understanding of how the compiler translates high-level C constructs into the underlying machine 
 instructions for this RISC-V architecture.
 
+<details>
+  <br>
+  
+![ Screenshot 1](https://github.com/Pavan-2099/Samsumng-VSD/blob/main/screenshots/task2_1.png)
+  
+![ Screenshot 2](https://github.com/Pavan-2099/Samsumng-VSD/blob/main/screenshots/task2_2.png)
+
+![ Screenshot 3](https://github.com/Pavan-2099/Samsumng-VSD/blob/main/screenshots/task2_3.png)
+
+![ Screenshot 4](https://github.com/Pavan-2099/Samsumng-VSD/blob/main/screenshots/task2_4.png)
+
+</details>
+---
+
 ### [Task 3: Decoding and Analyzing RISC-V Instruction Types and 32-Bit Patterns](https://github.com/Vishwachetankittali/Samsung-RISC-V-Talent-Development-Program/tree/main/TASK%203)  
 **Description:** In this task, you will analyze and decode RISC-V assembly instructions using instruction type formats.
 
