@@ -18,6 +18,21 @@
 - Compile C code using `gcc`.
 - Compile and count the number of instructions used in `o1` and `ofast` using the RISC-V compiler.
 
+  ## Screenshots Task 1
+<details>
+  <br>
+  
+![ Screenshot 1](https://github.com/rvijay333/RISC-V-Talent-Development-Program/blob/main/VirtualBox_vsdworkshop_code_sumoneton.png)
+  
+![ Screenshot 2](https://github.com/rvijay333/RISC-V-Talent-Development-Program/blob/main/VirtualBox_vsdworkshop_codeofast.png)
+
+![ Screenshot 3](https://github.com/rvijay333/RISC-V-Talent-Development-Program/blob/main/VirtualBox_vsdworkshop_main_ofast.png)
+
+![ Screenshot 4](https://github.com/rvijay333/RISC-V-Talent-Development-Program/blob/main/VirtualBox_vsdworkshop_main_sumoneton.png)
+
+</details>
+---
+
 ### [Task 2: Analyzing RISC-V Performance with Compiler Optimization Flags (-O1 and -Ofast)](https://github.com/Vishwachetankittali/Samsung-RISC-V-Talent-Development-Program/tree/main/TASK%202)
 **Description:** In this task, you will explore the compilation process for both standard C and RISC-V architecture:
 
