@@ -2,11 +2,11 @@
 
 ## Basic Details 
 
-**Name:**  Vishwachetan Kittali  
+**Name:**  Pavan Kumar K
 **College:** New Horizon college of Engineering  
-**Email:** kittalivishwachetan@gmail.com  
-**GitHub Profile:** [Vishwachetankittali](https://github.com/Vishwachetankittali)  
-**LinkedIn Profile:** [vishwachetan-kittali](https://linkedin.com/in/vishwachetan-kittali)  
+**Email:** kpavankumarc999@gmail.com  
+**GitHub Profile:** 
+**LinkedIn Profile:** 
 
 ----
 
