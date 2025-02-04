@@ -12,7 +12,7 @@
 
 ## Tasks
 
-### [Task 1: Environment setup and comparing RISC-V compiler with gcc compiler](https://github.com/Vishwachetankittali/Samsung-RISC-V-Talent-Development-Program/tree/main/task%201)
+### Task 1: Environment setup and comparing RISC-V compiler with gcc compiler
 **Description:** Refer to C-based and RISC-V-based lab videos to:
 
 - Compile C code using `gcc`.
@@ -37,7 +37,7 @@
 </details>
 ---
 
-### [Task 2: Analyzing RISC-V Performance with Compiler Optimization Flags (-O1 and -Ofast)](https://github.com/Vishwachetankittali/Samsung-RISC-V-Talent-Development-Program/tree/main/TASK%202)
+## Task 2: Analyzing RISC-V Performance with Compiler Optimization Flags (-O1 and -Ofast)
 **Description:** In this task, you will explore the compilation process for both standard C and RISC-V architecture:
 
 - Compile a simple C program using the `gcc` compiler.
@@ -77,7 +77,7 @@ instructions for this RISC-V architecture.
 </details>
 ---
 
-### [Task 3: Decoding and Analyzing RISC-V Instruction Types and 32-Bit Patterns](https://github.com/Vishwachetankittali/Samsung-RISC-V-Talent-Development-Program/tree/main/TASK%203)  
+## Task 3: Decoding and Analyzing RISC-V Instruction Types and 32-Bit Patterns 
 **Description:** In this task, you will analyze and decode RISC-V assembly instructions using instruction type formats.
 
 A. **Review RISC-V Instruction Formats:**  
@@ -374,7 +374,7 @@ This effectively copies the value in register `a4` to register `a5`.
 
 
 
-### [Task 4: Functional Simulation of RISC-V Core](https://github.com/Vishwachetankittali/Samsung-RISC-V-Talent-Development-Program/tree/main/TASK%204) 
+## Task 4: Functional Simulation of RISC-V Core
 
 **Description**:  
 This task involves performing a functional simulation of a given RISC-V Core Verilog netlist and testbench to verify the core's functional correctness and document the results.
