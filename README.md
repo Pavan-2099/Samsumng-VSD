@@ -5,7 +5,7 @@
 **Name:**  Pavan Kumar K
 **College:** New Horizon college of Engineering  
 **Email:** kpavankumarc999@gmail.com  
-**GitHub Profile:** 
+**GitHub Profile:** Pavan-2099[https://github.com/Pavan-2099]
 **LinkedIn Profile:** 
 
 ----
