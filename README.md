@@ -94,7 +94,7 @@ B. **Analyze Application Code:**
    - Identify 15 unique RISC-V instructions from the disassembled output.
 
      ### **Machine Code for each instruction**
-![Alt text](Snapshots/objdump.png)
+![Alt text]()
 ---
 
 ### 1. **I-Type: `addi sp, sp, -32`**
