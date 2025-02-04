@@ -94,7 +94,7 @@ B. **Analyze Application Code:**
    - Identify 15 unique RISC-V instructions from the disassembled output.
 
      ### **Machine Code for each instruction**
-![Alt text]()
+![Alt text](https://github.com/Pavan-2099/Samsumng-VSD/blob/main/screenshots/task3_r.png)
 ---
 
 ### 1. **I-Type: `addi sp, sp, -32`**
